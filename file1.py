@@ -1,1 +1,2 @@
-echo "Hello World this is lokesh"
+print ("Hello World this is lokesh")
+
