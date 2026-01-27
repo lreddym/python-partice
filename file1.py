@@ -5,7 +5,7 @@ a=1
 b=2
 print(a+b)
 
-### multipes
+### multipes and by zero
 a=8967
 b=877
 c=0
